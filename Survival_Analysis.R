@@ -1,6 +1,6 @@
 ########README
-#####integrate the ATAC and RNA, then using the statistical 
-#ranking (not better than RF, Xgboost and RL with ranking gene IP6K1 top )
+#####integrate the ATAC and RNA, then doing Survial Analysis with using 
+Advanced Survival Analysis (KM, Cox, RSF, XGBoost)
 
 ### in another one, will use ML for ranking
 
